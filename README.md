@@ -164,11 +164,8 @@ file: <your_image_file>
 - GPU is recommended but not required.
 
 ## Author
-Aritra Chakraborty
-IIIT Kottayam, 2028 Batch
+fl4nk3r
 
-Shubhomoy Sarkar
-IIIT Kottayam, 2028 Batch
 
 Date: 26th October 2025
 
